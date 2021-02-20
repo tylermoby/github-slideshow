@@ -4,11 +4,6 @@ title: "Welcome to our second slide!"
 ---
 # My First Project
 
-I'm super excited to learn how to code on github. 
-
-### I can't wait to work on blockchain technology
-
-**This should be interesting**
 > ... and __I__... am _Iron Man_
 > - Tony Stark
  
